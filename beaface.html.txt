@@ -1,0 +1,20 @@
+
+<html>
+  <h1>
+    Hey, I'm BEARFACE
+  </h1>
+  <body>
+    <h2> About me
+    </h2>
+    <p>
+      I am a gamer who makes videos sometimes.
+    </p>
+    <h2>
+      I'm testing this html for the moment. I plan to evolve this into something more for the viewers.
+    </h2>
+    <p>
+      I enjoy playing online multiplayer games and I'm a Call of Duty player. 
+      I try to put up content soon as I can.
+    </p>
+  </body>
+</html>
